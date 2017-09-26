@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lyft Trip Counter</string>
+    <string name="Default_Trips_Num">-25</string>
+</resources>
